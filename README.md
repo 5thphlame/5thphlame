@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @5thphlame
-- 👀 I’m interested in Cybersecurity and Dev-ops
+- 👀 Am Interested in  Cybersecurity and Dev-ops Projects
 - 🌱 I’m currently learning Native cloud
 - 💞️ I’m looking to collaborate on any cybersecurity projects (Great team player)
 - 📫 How to reach me Email: princemcamah@gmail.com| Contact/ Whatsapp: +2348107486462|linkIn: https://www.linkedin.com/in/prince-amah-1b6895116| Twitter: @5thphlame_
-I am a SOC Analyst Enthusiast and cybersecurity blogger, with an interest in Network Security, Cloud Security, Information Security.
+I am an Offensive security Enthusiast and cybersecurity blogger, with an interest in Network Security, Cloud Security, Information Security.
 
 He has hands-on experience from platforms such as, but not limited to:
 
