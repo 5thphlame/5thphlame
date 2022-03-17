@@ -5,12 +5,8 @@
 - 📫 How to reach me Email: princemcamah@gmail.com| Contact/ Whatsapp: +2348107486462|linkIn: https://www.linkedin.com/in/prince-amah-1b6895116| Twitter: @5thphlame_
 I am an Offensive security Enthusiast and cybersecurity blogger, with an interest in Network Security, Cloud Security, Information Security, SecDevOps.
 
-Hands-on experience from platforms such as, but not limited to:
-- TryHackMe
-- Splunk
-- RangeForce
-- Fortinet
-- Aviatrix
+I have experience with, but not limited to:
+- Cyber security Technologies(SIEM, SOAR, EDRs, Firewalls, IDS, IPS, etc. processes and Methodologies; Platforms like Tryhackme, HTB, RangeForce, Fortinet, Aviatrix,etc
 
 currently pursuing the complete beginner learning path on TryHackMe, Hack the Box,  towards getting the CompTia Security+ certification, Certified Ethical Hacking (CEH) Junior Penetration Tester(EJPT), and Offensive Security certified professional(OSCP)
 
