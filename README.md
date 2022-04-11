@@ -2,7 +2,7 @@
 - 👀 Am Interested in  Cybersecurity and Dev-ops Projects
 - 🌱 I’m currently on the Offensive Security path
 - 💞️ I’m looking to collaborate on any cybersecurity projects (Great team player)
-- 📫 How to reach me Email: princemcamah@gmail.com| Contact/ Whatsapp: +2348107486462|linkIn: https://www.linkedin.com/in/prince-amah-1b6895116| Twitter: @5thphlame_
+- 📫 How to reach me Email: princemcamah@gmail.com| Contact/ Whatsapp: +2348107486462|linkedIn: https://www.linkedin.com/in/prince-amah-1b6895116| Twitter: @5thphlame_
 I am an Offensive security Enthusiast and cybersecurity blogger, with an interest in Network Security, Cloud Security, Information Security, SecDevOps.
 
 I have experience with, but not limited to:
