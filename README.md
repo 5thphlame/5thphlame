@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prince Amah
-- 👀 Am Interested in  Cybersecurity and Dev-ops Projects
+- 👀 Cybersecurity Specialist
 - 🌱 I’m currently on the Offensive Security path
 - 💞️ I’m looking to collaborate on any cybersecurity projects (Great team player)
 - 📫 How to reach me Email: princemcamah@gmail.com| Contact/ Whatsapp: +2348107486462|linkedIn: https://www.linkedin.com/in/prince-amah-1b6895116| Twitter: @5thphlame_
