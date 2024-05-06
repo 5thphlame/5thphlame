@@ -111,10 +111,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
 </a> </p>
 <br>
-<p align="center"><a href="https://github.com/5thphlame/github-readme-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5thphlame&show_icons=true&theme=dracula&layout=compact&hide=html,roff,css" />
-	</a>
-</p>
+
 <p align="center">
   <a href="https://app.hackthebox.com/profile/586178">
     <img src="http://www.hackthebox.eu/badge/image/586178" alt="Hack The Box">
@@ -125,7 +122,3 @@
 </p>
 <p align="right"><strong><samp></samp></strong></p>
 
-
-[![5thphlame's GitHub stats](https://github-readme-stats.vercel.app/api?username=5thphlame)](https://github.com/5thphlame/github-readme-stats&theme=dracula)
-
-[![5thphlame's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5thphlame&layout=pie)](https://github.com/5thphlame/github-readme-stats&theme=dracula)
