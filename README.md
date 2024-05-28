@@ -117,7 +117,7 @@ A 𝖰𝗎𝖺𝗅𝗂𝗍𝗒-𝖽𝗋𝗂𝗏𝖾𝗇 𝖢𝗒𝖻𝖾𝗋𝗌
     <img src="http://www.hackthebox.eu/badge/image/586178" alt="Hack The Box">
   </a>
   <a href="https://tryhackme.com/p/1stblackking">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/1stblackking.png" alt="TryHackMe">
+    #
   </a>
 </p>
 <p align="right"><strong><samp></samp></strong></p>
