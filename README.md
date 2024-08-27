@@ -112,6 +112,7 @@ A 𝖰𝗎𝖺𝗅𝗂𝗍𝗒-𝖽𝗋𝗂𝗏𝖾𝗇 𝖢𝗒𝖻𝖾𝗋𝗌
 </a> </p>
 <br>
 
+		  
 <p align="center">
   <a href="https://app.hackthebox.com/profile/586178">
     <img src="http://www.hackthebox.eu/badge/image/586178" alt="Hack The Box">
@@ -119,9 +120,8 @@ A 𝖰𝗎𝖺𝗅𝗂𝗍𝗒-𝖽𝗋𝗂𝗏𝖾𝗇 𝖢𝗒𝖻𝖾𝗋𝗌
   <a href="https://tryhackme.com/p/1stblackking">
    <img src="https://tryhackme-badges.s3.amazonaws.com/1stblackking.png" alt="TryHackMe">
   </a>
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66cdab14a22274ce503f9d35?variant=dark" alt="roadmap.sh"/></a>
 </p>
-<p align="right"><strong><samp></samp></strong></p>
+<p align="center"><strong><samp><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66cdab14a22274ce503f9d35?variant=dark" alt="roadmap.sh"/></a></samp></strong></p>
 
 
 ## Social Networks
